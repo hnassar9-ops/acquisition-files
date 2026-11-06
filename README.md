@@ -6,6 +6,8 @@ The game opens on Home and leads you through all 539 files as a series of workda
 
 From Day 2, the desk also brings visitors at the window (choices with consequences that can come back days later), paperwork checks (match an invoice against the contract and receiving report, then pay, return, or hold), and station crises that your staff have to handle. A story, the Brightwater file, runs through all 15 chapters, with one clue for each finale you pass. Achievements, streaks, and optional sound round it out.
 
+Everything runs as one campaign. Each chapter is workdays, then required incidents (all 12 story cases and all 12 field files, plus two inspection dockets), then the finale, then a harbor rebuild: the original harbor story's 12 sites, plus three landmarks. Board reviews after chapters 5, 10, and 15 need 70% to continue.
+
 The look is a harbor at night: a HUD with your funds, trust, mission, and streak; a Home screen where the 15 chapters fly as maritime signal flags A to O; a booth-and-desk workday with typed records, carbon-copy invoices, and rubber-stamp ink; and a shift report with a stamped grade. The fonts are Big Shoulders Stencil, Barlow Condensed, and Courier Prime (SIL Open Font License), embedded so the game works offline.
 
 Every catalogued objective moves through the same five stages: Watch, Work together, Independent, Connect, and Lead. One cast of characters keeps the same job titles across the restoration adventure, the Records Hall files, the story cases, and the station.
